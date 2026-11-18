@@ -1,0 +1,4 @@
+com\cafeteria\infrastructure\repository\FileFoodRepository.class
+com\cafeteria\infrastructure\persistence\DatabaseConnection.class
+com\cafeteria\infrastructure\repository\FileUserRepository.class
+com\cafeteria\infrastructure\repository\FileOrderRepository.class

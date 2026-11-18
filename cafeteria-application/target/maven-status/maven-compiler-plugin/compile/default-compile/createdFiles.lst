@@ -1,0 +1,5 @@
+com\cafeteria\application\service\ManageFoodUseCase.class
+com\cafeteria\application\service\ViewMenuUseCase.class
+com\cafeteria\application\service\TrackOrderUseCase.class
+com\cafeteria\application\service\ManagePaymentUseCase.class
+com\cafeteria\application\service\PlaceOrderUseCase.class

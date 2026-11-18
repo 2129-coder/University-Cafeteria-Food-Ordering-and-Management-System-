@@ -1,0 +1,10 @@
+com\cafeteria\domain\model\Admin.class
+com\cafeteria\domain\service\FoodService.class
+com\cafeteria\domain\model\OrderStatus.class
+com\cafeteria\domain\model\Order.class
+com\cafeteria\domain\model\Student.class
+com\cafeteria\domain\model\User.class
+com\cafeteria\domain\service\OrderService.class
+com\cafeteria\domain\model\OrderItem.class
+com\cafeteria\domain\model\Food.class
+com\cafeteria\domain\model\Payment.class

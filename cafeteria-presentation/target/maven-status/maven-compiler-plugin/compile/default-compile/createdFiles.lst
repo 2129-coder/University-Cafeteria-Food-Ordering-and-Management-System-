@@ -1,0 +1,9 @@
+com\cafeteria\presentation\controller\FoodManagementController.class
+com\cafeteria\presentation\controller\LoginController.class
+com\cafeteria\presentation\controller\RegisterController.class
+com\cafeteria\presentation\controller\MenuController.class
+com\cafeteria\presentation\controller\PaymentController.class
+com\cafeteria\presentation\MainApp.class
+com\cafeteria\presentation\controller\OrderController.class
+com\cafeteria\presentation\controller\StudentDashboardController.class
+com\cafeteria\presentation\controller\AdminDashboardController.class
